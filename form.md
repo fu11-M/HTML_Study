@@ -29,15 +29,14 @@
 </body>
 </html>
 ```
-![alt text](init.png)
+![alt text](img.form.img.init.png)
 
 init을 입력하고 제출을 클릭하게 되면 
 
-![alt text](init_Result.png)
+![alt text](img.form.img.init_Result.png)
 
 
 get method로 보낸 데이터가 URL에 표시된다.
-
 
 #POST : 
 주로 데이터를 서버로 제출할 때 사용되며 GET과 달리 HTTP 요청의 본문(body)에 데이터를 포함 시켜 전송하기 때문에
@@ -63,11 +62,11 @@ GET 방식 보다 안전하다.
 </html>
 ```
 
-![alt text](init_post.png)
+![alt text](img.form.img.init_post.png)
 
 init을 입력하고 제출을 클릭하게 되면
 
-![alt text](init_post_result.png)
+![alt text](img.form.img.init_post_result.png)
 
 POST method로 보낸 데이터가 URL에 표시 되지 않고 HTTP 요청의 본문 내부에 데이터를 포함 시킨다.
 

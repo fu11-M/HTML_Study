@@ -33,7 +33,7 @@ Get_Ex
 
 init을 입력하고 제출을 클릭하게 되면 
 
-![alt text](./img/form.img/init_Result.png)
+![alt text](./img/form.img/get_Result.png)
 
 get method로 보낸 데이터가 URL에 표시된다.
 

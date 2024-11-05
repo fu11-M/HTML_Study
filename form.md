@@ -29,11 +29,11 @@ Get_Ex
 </body>
 </html>
 ```
-![alt text](./img.form.img.init.png)
+![alt text](./img/form.img/init.png)
 
 init을 입력하고 제출을 클릭하게 되면 
 
-![alt text](./img.form.img.init_Result.png)
+![alt text](./img/form.img.init/Result.png)
 
 get method로 보낸 데이터가 URL에 표시된다.
 
@@ -61,11 +61,11 @@ Post_Ex
 </html>
 ```
 
-![alt text](./img.form.img.init_post.png)
+![alt text](./img/form.img/init_post.png)
 
 init을 입력하고 제출을 클릭하게 되면
 
-![alt text](./img.form.img.init_post_result.png)
+![alt text](./img/form.img/init_post_result.png)
 
 POST method로 보낸 데이터가 URL에 표시 되지 않고 HTTP 요청의 본문 내부에 데이터를 포함 시킨다.
 

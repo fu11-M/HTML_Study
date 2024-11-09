@@ -1,4 +1,6 @@
-<div> : 구획을 나누거나 그룹 화 할 때 사용된다. 그룹화 하게 되면 그룹화 된 영역을 스타일링(CSS), 스크립팅(JS), 레이아웃을 구성하고 관리하는데 용이하다.
+div : 
+- 구획을 나누거나 그룹 화 할 때 사용된다. 
+- 그룹화 하게 되면 그룹화 된 영역을 스타일링(CSS), 스크립팅(JS), 레이아웃을 구성하고 관리하는데 용이하다.
 
 ```html
 <!DOCTYPE html>
@@ -19,9 +21,11 @@
 </html> 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/781645ba-08a1-474e-a12b-4c3fe8b69c05/Untitled.png)
+![alt text](./img/block.img/div.png)
 
-<span> : 텍스트나 이미 등의 인라인 요소를 그룹화 할 때 사용된다. 인라인 요소를 그룹화 하여 <div>와 마찬가지로 스타일링(CSS), 스크립팅(JS), 레이아웃을 구성하고 관리하는데 용이하다.
+span : 
+- 텍스트나 이미 등의 인라인 요소를 그룹화 할 때 사용된다. 
+- 인라인 요소를 그룹화 하여 <div>와 마찬가지로 스타일링(CSS), 스크립팅(JS), 레이아웃을 구성하고 관리하는데 용이하다.
 
 ```html
 <!DOCTYPE html>
@@ -42,7 +46,7 @@
 </html> 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/28a50aa7-267d-4670-8e03-0c6bc32d5075/Untitled.png)
+![alt text](./img/block.img/span.png)
 
 <div>, <span> 둘의 차이점 :
 

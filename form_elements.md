@@ -55,6 +55,7 @@
 <!--  -->
 ![alt text](./img/form_elements.img/input.png)
 <!--  -->
+__
 
 
 # textarea : 
@@ -83,6 +84,7 @@
 <!--  -->
 ![alt text](./img/form_elements.img/textarea.png)
 <!--  -->
+__
 
 
 # select,  option : 
@@ -110,6 +112,7 @@
 <!--  -->
 ![alt text](./img/form_elements.img/select.png)
 <!--  -->
+__
 
 ### select를 사용해서 항목 중 하나를 선택하는 화면을 구성하였는데 하나가 아닌 여러 항목을 선택하여야 할 경우에는 select 태그의 multiple 속성을 사용한다.
 
@@ -135,6 +138,8 @@
 <!--  -->
 ![alt text](./img/form_elements.img/multiple.png)
 <!--  -->
+__
+
 
 # optgroup : 
 select, option 태그를 사용하여 만든 선택 가능 입력 양식을 그룹화 하여 표현한다.
@@ -165,9 +170,12 @@ select, option 태그를 사용하여 만든 선택 가능 입력 양식을 그�
 </html>
 ```
 
+
 <!--  -->
 ![alt text](./img/form_elements.img/optgroup.png)
 <!--  -->
+__
+
 
 # fieldset : 
 양식의 구조를 나누는 데 사용되며 일종의 컨테이너 역할을 하고 구조가 나눠진 양식에 대한 스타일링과 레이아웃을 일관되게 적용하는데 사용된다.
@@ -200,6 +208,8 @@ fieldset 태그에 대한 설명이나 제목을 제공한다.(다른 태그 내
 <!--  -->
 ![alt text](./img/form_elements.img/fieldset.png)
 <!--  -->
+__
+
 
 # label : 다른 태그와 관계되어 관계된 태그에 대한 설명을 제공하고 의미를 부여하는데 사용된다.
 
@@ -237,6 +247,7 @@ fieldset 태그에 대한 설명이나 제목을 제공한다.(다른 태그 내
 <!--  -->
 ![alt text](./img/form_elements.img/label.png)
 <!--  -->
+__
 
 
 ## 종합 예제

@@ -53,7 +53,7 @@
 ```
 
 <!--  -->
-![alt text](./img/input.img/input.png)
+![alt text](./img/form_elements.img/input.png)
 <!--  -->
 
 

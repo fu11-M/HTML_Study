@@ -55,7 +55,7 @@
 <!--  -->
 ![alt text](./img/form_elements.img/input.png)
 <!--  -->
-__
+___
 
 
 # textarea : 
@@ -84,7 +84,7 @@ __
 <!--  -->
 ![alt text](./img/form_elements.img/textarea.png)
 <!--  -->
-__
+___
 
 
 # select,  option : 
@@ -112,7 +112,7 @@ __
 <!--  -->
 ![alt text](./img/form_elements.img/select.png)
 <!--  -->
-__
+___
 
 ### select를 사용해서 항목 중 하나를 선택하는 화면을 구성하였는데 하나가 아닌 여러 항목을 선택하여야 할 경우에는 select 태그의 multiple 속성을 사용한다.
 
@@ -138,7 +138,7 @@ __
 <!--  -->
 ![alt text](./img/form_elements.img/multiple.png)
 <!--  -->
-__
+___
 
 
 # optgroup : 
@@ -170,11 +170,10 @@ select, option 태그를 사용하여 만든 선택 가능 입력 양식을 그�
 </html>
 ```
 
-
 <!--  -->
 ![alt text](./img/form_elements.img/optgroup.png)
 <!--  -->
-__
+___
 
 
 # fieldset : 
@@ -208,7 +207,7 @@ fieldset 태그에 대한 설명이나 제목을 제공한다.(다른 태그 내
 <!--  -->
 ![alt text](./img/form_elements.img/fieldset.png)
 <!--  -->
-__
+___
 
 
 # label : 다른 태그와 관계되어 관계된 태그에 대한 설명을 제공하고 의미를 부여하는데 사용된다.
@@ -247,7 +246,7 @@ __
 <!--  -->
 ![alt text](./img/form_elements.img/label.png)
 <!--  -->
-__
+___
 
 
 ## 종합 예제

@@ -1,29 +1,29 @@
-### input : 
+# input : 
 사용자로부터 데이터를 입력 받는 데 사용되며 input 태그의 속성을 사용해 다양한 유형의 입력 필드를 생성하는데 사용된다.
 
 웹 페이지에서 사용자가 원하는 컨텐츠를 제공하며 사용자와의 상호 작용을 가능하게 한다.
 
 ## input tag의 속성 : 
 
-# text : 글자 입력 양식 생성
+### text : 글자 입력 양식 생성
 
-# button : 버튼
+### button : 버튼
 
-# checkbox : 체크 박스 생성
+### checkbox : 체크 박스 생성
 
-# file : 파일 입력 양식 생성
+### file : 파일 입력 양식 생성
 
-# hidden : 해당 내용 표시 하지 않음
+### hidden : 해당 내용 표시 하지 않음
 
-# image : 이미지 형태 생성
+### image : 이미지 형태 생성
 
-# password : 비밀번호 입력 양식 생성
+### password : 비밀번호 입력 양식 생성
 
-# radio : 라디오 버튼 생성
+### radio : 라디오 버튼 생성
 
-# reset : 초기화 버튼 생성
+### reset : 초기화 버튼 생성
 
-# submit : 제출 버튼 생성
+### submit : 제출 버튼 생성
 
 ```html
 <!DOCTYPE html>
@@ -57,14 +57,14 @@
 <!--  -->
 
 
-### textarea : 
+# textarea : 
 여러 줄의 텍스트를 입력 받을 수 있는 태그 주로 긴 텍스트를 입력하거나 텍스트를 여러 줄에 걸쳐 표시할 때 사용할 상자를 생성한다.
 
 ## textarea의 속성 : 
 
-# row : textarea로 만들어질 상자의 행 수를 지정한다.
+### row : textarea로 만들어질 상자의 행 수를 지정한다.
 
-# cols : textarea로 만들어질 상자의 열 수를 지정한다.
+### cols : textarea로 만들어질 상자의 열 수를 지정한다.
 
 ```html
 <!DOCTYPE html>
@@ -85,7 +85,8 @@
 <!--  -->
 
 
-### select,  option : 사용자에게 선택 옵션을 제공하는데 사용된다.
+# select,  option : 
+사용자에게 선택 옵션을 제공하는데 사용된다.
 
 ```html
 <!DOCTYPE html>
@@ -110,7 +111,7 @@
 ![alt text](./img/form_elements.img/select.png)
 <!--  -->
 
-## select를 사용해서 항목 중 하나를 선택하는 화면을 구성하였는데 하나가 아닌 여러 항목을 선택하여야 할 경우에는 select 태그의 multiple 속성을 사용한다.
+### select를 사용해서 항목 중 하나를 선택하는 화면을 구성하였는데 하나가 아닌 여러 항목을 선택하여야 할 경우에는 select 태그의 multiple 속성을 사용한다.
 
 ```html
 <!DOCTYPE html>
@@ -135,7 +136,7 @@
 ![alt text](./img/form_elements.img/multiple.png)
 <!--  -->
 
-### optgroup : 
+# optgroup : 
 select, option 태그를 사용하여 만든 선택 가능 입력 양식을 그룹화 하여 표현한다.
 
 ```html
@@ -168,10 +169,10 @@ select, option 태그를 사용하여 만든 선택 가능 입력 양식을 그�
 ![alt text](./img/form_elements.img/optgroup.png)
 <!--  -->
 
-### fieldset : 
+# fieldset : 
 양식의 구조를 나누는 데 사용되며 일종의 컨테이너 역할을 하고 구조가 나눠진 양식에 대한 스타일링과 레이아웃을 일관되게 적용하는데 사용된다.
 
-## legend : 
+# legend : 
 fieldset 태그에 대한 설명이나 제목을 제공한다.(다른 태그 내부에 사용할 경우 효과가 없음)
 
 ```html
@@ -200,7 +201,7 @@ fieldset 태그에 대한 설명이나 제목을 제공한다.(다른 태그 내
 ![alt text](./img/form_elements.img/fieldset.png)
 <!--  -->
 
-### label : 다른 태그와 관계되어 관계된 태그에 대한 설명을 제공하고 의미를 부여하는데 사용된다.
+# label : 다른 태그와 관계되어 관계된 태그에 대한 설명을 제공하고 의미를 부여하는데 사용된다.
 
 ```html
 <!DOCTYPE html>
@@ -238,7 +239,7 @@ fieldset 태그에 대한 설명이나 제목을 제공한다.(다른 태그 내
 <!--  -->
 
 
-### 종합 예제
+## 종합 예제
 
 ```html
 <!DOCTYPE html>

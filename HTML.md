@@ -60,7 +60,7 @@ head태그는 페이지의 다양한 정보를 담고 있으며 이 정보들은
  - style : 
 CSS스타일로 HTML문서 전체를 정의  /  인라인 style(HTML 요소에 style 속성을 직접 지정하는 것)
 
-### - script : 
+ - script : 
 외부 JavaScript 파일을 연결하거나, 인라인 JavaScript코드를 포함할 때 사용
 
 ```html

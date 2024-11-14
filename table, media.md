@@ -1,8 +1,7 @@
-테이블 태그
-<table> :  표 삽입 / border속성을 사용하여 표의 테두리 두께를 지정할 수 있다.
-<tr> : 표의 행 삽입
-<th> : 표의 제목 셀 생성 / colspan 속성 → 셀의 너비, rowspan 속성 → 셀의 높이를 설정할 수 있다.
-<td> : 표의 일반 셀 생성 / colspan 속성 → 셀의 너비, rowspan 속성 → 셀의 높이를 설정할 수 있다.
+## table :  표 삽입 / border속성을 사용하여 표의 테두리 두께를 지정할 수 있다.
+### tr : 표의 행 삽입
+### th : 표의 제목 셀 생성 / colspan 속성 → 셀의 너비, rowspan 속성 → 셀의 높이를 설정할 수 있다.
+### td : 표의 일반 셀 생성 / colspan 속성 → 셀의 너비, rowspan 속성 → 셀의 높이를 설정할 수 있다.
 
 <!DOCTYPE html>
 <html lang="en">

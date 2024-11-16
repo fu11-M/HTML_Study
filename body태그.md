@@ -1,8 +1,9 @@
-<body> 태그는 웹 페이지의 실제 내용을 포함하며, 브라우저에서 보여지는 모든 콘텐츠가 태그 안에 위치하며 웹 페이지의 텍스트, 이미지, 비디오, 링크, 버튼 등 사용자가 볼 수 있는 모든 요소는 <body>태그로 이루어 진다.
+## body 태그 :
+웹 페이지의 실제 내용을 포함하며, 브라우저에서 보여지는 모든 콘텐츠가 태그 안에 위치하며 웹 페이지의 텍스트, 이미지, 비디오, 링크, 버튼 등 사용자가 볼 수 있는 모든 요소는 body 태그로 이루어 진다.
 
-hody태그 내부에 포함되는 요소 
+## hody태그 내부에 포함되는 요소 
 
-- **글자 태그**
+### 글자 태그
 
 <h1 ~ h6> : 제목을 표현하며 h1, h2, h3, h4. h5, h6 순으로 더 작은 제목으로 표현됨
 
@@ -24,12 +25,12 @@ hody태그 내부에 포함되는 요소
 </body>
 </html>
 ```
-
+<!--  -->
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/e8edc19d-d749-4a17-bc13-b9cef94cbed9/Untitled.png)
+<!--  -->
+___
 
----
-
-<p> : 본문을 작성할 때 사용되며 문단 형태의 글을 표현한다.
+### p : 본문을 작성할 때 사용되며 문단 형태의 글을 표현한다.
 
 ```html
 <!DOCTYPE html>
@@ -56,11 +57,12 @@ hody태그 내부에 포함되는 요소
 </html>
 ```
 
+<!--  -->
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/92483423-8783-4096-a07b-939802396454/Untitled.png)
+<!--  -->
+___
 
----
-
-<br> : 줄 바꿈
+### br : 줄 바꿈
 
 ```html
 <!DOCTYPE html>
@@ -91,11 +93,11 @@ hody태그 내부에 포함되는 요소
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/729b1c51-2d99-4ad6-a067-8e868af2109a/Untitled.png)
 
----
+___
 
-<hr> : 수평 줄 삽입 
+### hr : 수평 줄 삽입 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,22 +128,24 @@ hody태그 내부에 포함되는 요소
 </body>
 </html>
 ```
-
+<!--  -->
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/9e404ff6-bd3a-4873-9921-b633827986eb/Untitled.png)
+<!--  -->
+___
 
----
 
-- 글자 모양 태그 
-<b> : 텍스트를 굵게 표시
-<i> : 텍스트를 이탤릭체(서예 글씨)로 표시 
-<u> : 텍스트 밑줄 표시
-<ins> : 텍스트 밑줄 표시
-<del> : 텍스트 취소(줄) 표시
-<strong> : 텍스트 강조 표시(굵게)
-<em> : 텍스트를 기울임체로 강조 표시(얇게)
-<small> : 작은 텍스트로 표시
-<sup> : 위 첨자(텍스트를 위쪽으로 작게 표시)
-<sub> : 아래 첨자(텍스트를 아래쪽으로 작게 표시)
+## 글자 모양 태그 
+### b : 텍스트를 굵게 표시
+### i : 텍스트를 이탤릭체(서예 글씨)로 표시 
+### u : 텍스트 밑줄 표시
+### ins : 텍스트 밑줄 표시
+### del : 텍스트 취소(줄) 표시
+### strong : 텍스트 강조 표시(굵게)
+### em : 텍스트를 기울임체로 강조 표시(얇게)
+### small : 작은 텍스트로 표시
+### sup : 위 첨자(텍스트를 위쪽으로 작게 표시)
+### sub : 아래 첨자(텍스트를 아래쪽으로 작게 표시)
+___
 
 ```html
 <!DOCTYPE html>
@@ -174,9 +178,11 @@ hody태그 내부에 포함되는 요소
 </html>
 ```
 
+<!--  -->
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/e2f19ba0-56f9-4fdc-a48a-804020ff021c/Untitled.png)
+<!--  -->
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -190,10 +196,11 @@ hody태그 내부에 포함되는 요소
 </body>
 </html>
 ```
-
+<!--  -->
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/0c62eaf4-2492-4f4d-b08c-453f3dfccc03/Untitled.png)
+<!--  -->
+___
 
----
 
 - 특수 문자 표시
 &nbsp; :  공백 표시

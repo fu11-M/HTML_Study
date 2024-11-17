@@ -250,7 +250,7 @@ ___
 ```
 
 <!--  -->
-![alt text](./img/body.html/a_20link.png)
+![alt text](./img/body.html/a_link.png)
 <!--  -->
 ___
 

@@ -23,8 +23,6 @@ div :
 
 ![alt text](./img/block.img/div.png)
 
-
-
 span : 
 - 텍스트나 이미 등의 인라인 요소를 그룹화 할 때 사용된다. 
 - 인라인 요소를 그룹화 하여 <div>와 마찬가지로 스타일링(CSS), 스크립팅(JS), 레이아웃을 구성하고 관리하는데 용이하다.
@@ -49,7 +47,6 @@ span :
 ```
 
 ![alt text](./img/block.img/span.png)
-
 
 
 div, span 둘의 차이점 :

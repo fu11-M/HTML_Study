@@ -3,7 +3,7 @@
 
 ## hody태그 내부에 포함되는 요소 
 
-## 글자 태그 :
+## 글자 태그
 
 ### h1 ~ h6 : 
 제목을 표현하며 h1, h2, h3, h4. h5, h6 순으로 더 작은 제목으로 표현됨
@@ -130,12 +130,12 @@ ___
 </html>
 ```
 <!--  -->
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/9e404ff6-bd3a-4873-9921-b633827986eb/Untitled.png)
+![alt text](./img/body.html/hr.png)
 <!--  -->
 ___
 
-
 ## 글자 모양 태그 
+
 ### b : 텍스트를 굵게 표시
 ### i : 텍스트를 이탤릭체(서예 글씨)로 표시 
 ### u : 텍스트 밑줄 표시
@@ -180,7 +180,7 @@ ___
 ```
 
 <!--  -->
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/e2f19ba0-56f9-4fdc-a48a-804020ff021c/Untitled.png)
+![alt text](./img/body.html/text.png)
 <!--  -->
   
 ```html
@@ -198,12 +198,13 @@ ___
 </html>
 ```
 <!--  -->
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/0c62eaf4-2492-4f4d-b08c-453f3dfccc03/Untitled.png)
+![alt text](./img/body.html/sup.sub.png)
 <!--  -->
 ___
 
 
 ## 특수 문자 표시
+
 ### &nbsp; :  공백 표시
 ### &lt; : < 모양 표시
 ### &gt; : > 모양 표시
@@ -223,15 +224,18 @@ ___
     </body>
     </html>
 ```
-
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/2eee9514-9ef1-444a-89fb-666f9a0396d2/Untitled.png)
-    
+<!--  -->
+![alt text](./img/body.html/specia.png)
+<!--  -->
 ___
 
-- 링크 태그
-<a> : 하이퍼링크(다른 웹페이지, 파일, 위치 등 이동할 수 있는 링크)를 생성하며 href 속성을 사용하여 하이퍼 링크의 주소를 표현한다.
 
-```
+## 링크 태그
+
+### a : 
+하이퍼링크(다른 웹페이지, 파일, 위치 등 이동할 수 있는 링크)를 생성하며 href 속성을 사용하여 하이퍼 링크의 주소를 표현한다.
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -245,15 +249,19 @@ ___
 </html>
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/049f90ce-5a48-496b-9b0e-ae8b01cee8d5/Untitled.png)
+<!--  -->
+![alt text](./img/body.html/a_20link.png)
+<!--  -->
+___
 
----
 
-- 목록 태그
-<ul> : 순서가 없는 목록 생성
-<ol> : 순서가 있는 목록 생성
-<li> : 목록의 항목 생성
+## 목록 태그
 
+### ul : 순서가 없는 목록 생성
+### ol : 순서가 있는 목록 생성
+### li : 목록의 항목 생성
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -310,5 +318,8 @@ ___
     </ul>
 </body>
 </html>
+```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea204791-94b0-4594-95e9-37705edf8245/bb451ac3-c462-4835-bd18-512a1e7af8e2/Untitled.png)
+<!--  -->
+![alt text](./img/body.html/list.png)
+<!--  -->

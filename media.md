@@ -60,6 +60,36 @@ ___
 ### width : 비디오의 너비 지정
 ### height : 비디오의 높이 지정
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio and Video Example</title>
+</head>
+<body>
+    <h1>Audio and Video Example</h1>
+
+    <!-- Audio Example -->
+    <h2>Audio Example</h2>
+    <audio src="audio-file.mp3" preload="auto" autoplay loop controls>
+        Your browser does not support the audio element.
+    </audio>
+    <p>* 위 오디오는 자동 재생되고 반복됩니다. 사용자가 재생 도구를 이용할 수도 있습니다.</p>
+
+    <!-- Video Example -->
+    <h2>Video Example</h2>
+    <video src="video-file.mp4" preload="metadata" autoplay loop controls width="640" height="360">
+        Your browser does not support the video tag.
+    </video>
+    <p>* 위 비디오는 640x360 해상도로 자동 재생 및 반복되며, 재생 도구를 제공합니다.</p>
+</body>
+</html>
+```
+
+![alt text](./img/media.img/Aoudio_Video.png)
+
 ___
 HTML에서는 텍스트나 이미지, 입력 필드 등과 같은 요소들을 나타내기 위해 태그를 사용하는데 이 중 일부 태그는 단순히 하나의 요소만을 나타내고, 텍스와 같은 내용을 포함하지 않는 경우가 있는데 이런 경우 해당 태그는 닫힘 태그가 없이 사용하고 이것을 단일 태그라고 하며 br, img, input태그 등이 있다.
 
